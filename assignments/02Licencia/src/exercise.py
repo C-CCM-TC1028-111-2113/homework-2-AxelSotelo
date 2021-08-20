@@ -8,7 +8,7 @@ def main():
         if per == "s":
             print("Trámite de licencia concedido")
         elif per=="n":
-            print("No cumples requisitos")
+            print("No cumples los requisitos")
         else :
             print("Respuesta incorrecta")
     else :
