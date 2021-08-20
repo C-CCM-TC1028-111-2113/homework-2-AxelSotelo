@@ -12,6 +12,8 @@ def main():
         else :
             print("Respuesta incorrecta")
             
+    elif edad <0 :
+        print("Respuesta incorrecta")  
     else :
         print("No cumples requisitos")
 
