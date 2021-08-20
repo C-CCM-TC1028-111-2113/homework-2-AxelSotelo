@@ -11,8 +11,9 @@ def main():
             print("No cumples requisitos")
         else :
             print("Respuesta incorrecta")
+            
     else :
-        print("No cumples los requisitos")
+        print("No cumples requisitos")
 
 
 
